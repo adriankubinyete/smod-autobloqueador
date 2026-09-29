@@ -6,7 +6,7 @@ export default defineCog({
 	name: "autobloqueador",
 	description:
 		"Controle do Auto-Bloqueador Magnus - força atualização e gerencia quem pode usar o comando.",
-	authors: [{ name: "masutty", id: 188851299255713792n }],
+	authors: [{ name: "Adrian", id: 0n }],
 	commands: [_autobloqueador],
 	migrations: [AUTOBLOQUEADOR_SCHEMA],
 });
